@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: black;
+}
+img {
+  margin-top: 10%;
+  width: 100%;
+  border-radius: 7%;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+.descricao {
+  color: white;
+  text-align: center;
+}
+.textos {
+  width: 320px;
+  margin: auto;
+}
+.textos p {
+  margin-bottom: 5px;
+}
+
+li {
+  height: 40px;
+  line-height: 40px;
+  background-color: #32cd32;
+  margin-bottom: 10px;
+  text-align: center;
+}
+li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: black;
+  background-color: white;
+}
+footer {
+  color: white;
+  text-align: center;
+}
